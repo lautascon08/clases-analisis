@@ -25,7 +25,7 @@ igualar una variable existente a un nuevo valor
 edadEstudiante=prompt("ingrese un valor");
 console.log(edadUsuario);
 
-console.log("El estudiante nombreEstudiante del grado gradoEstudiante tiene edadEstudiante")
+console.log("El estudiante" + nombreEstudiante + "del grado" + gradoEstudiante + "tiene" + edadEstudiante);
 //comentarios en linea
 /*comentario
 de
