@@ -1,0 +1,6 @@
+Taller 1: Nota 3.2
+    * Los comentarios al inicio, no tienen escrito lo que se pide en el Taller
+    * La linea 20 debió ir en la línea 10
+    * Frente a las variables no esá escrito de qué tipo es.
+    * El mensaje por consola en la linea 28, debía utilizar variables para mostrar el valor de ellas.
+    * En el index.html no está es script de taller 1. Eso indica que no hicieron pruebas
