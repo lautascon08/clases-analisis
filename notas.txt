@@ -4,3 +4,16 @@ Taller 1: Nota 3.2
     * Frente a las variables no esá escrito de qué tipo es.
     * El mensaje por consola en la linea 28, debía utilizar variables para mostrar el valor de ellas.
     * En el index.html no está es script de taller 1. Eso indica que no hicieron pruebas
+
+Taller 2: Nota 3
+    * Mensaje innecesario en lineas 4, 9, 21, 24
+    * Linea 11, la variable volumenCubo no existe, debió ser VolumenCubo
+    * mensaje sin sentido en linea 12
+    * Mensaje poco claro, linea 18
+    * linea 25, operacion incorrecta
+    * Linea 26, llama a area, pero el resultado está en are (linea 25)
+    * Mensajes linea 32 y 33 poco claros
+    * No mostró el resultado del area del trapezoide
+    * linea 43, mensaje poco claro
+    * linea 49, el 22.000 es decimal debido al punto(.), debío ser 22000. Mensaje poco claro
+    * lineas 60, 63, 66 operaciones incorrectas
