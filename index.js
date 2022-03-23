@@ -146,6 +146,11 @@ altura=parseInt ( prompt("ingrse la altura del rectangulo "));
 base=parseInt (prompt("ingrse la base del rectangulo"));
 perimetro= altura + base + altura + base;
 console.log("convertido" + perimetro);
+
+
+
+
+
  
 
 
