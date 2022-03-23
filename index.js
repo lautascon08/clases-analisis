@@ -117,6 +117,38 @@ console.log(nombrecito);
 nombrecito="Mauricio";
 console.log(nombrecito);
 
+//paeseo o casting
+//* se trata de convertir las variables a otro tipo de dato ,los cambios existentes son :
+/*
+* a entero parseInt()
+* a decimal parSe Float()
+* a cadena String ()
+
+*/
+//convertir variable
+var entero1=promt("Ingrese un entero ");
+var entero2=promt("Ingrese otro entero");
+var sumaE=entero1+entero2;
+console.log("sin parfseInt" + sumaE);
+
+//forma1
+/*convertir el dato justo en el momento en que se recibe por teclado 
+esto implica que cuando se llame la variable ya este convertida al tipo de dato deceado*/
+
+entero1= parseint (promt("Ingrese un entero "));
+ entero2=parseint (promt("Ingrese otro entero"));
+ sumaE=entero1+entero2;
+console.log("sin parfseInt" + sumaE);
+console.log("convertido"+ sumar); 
+ 
+//taller solicitar la altura de rectangulo solicitar la base del rectangulo
+altura=parseInt ( prompt("ingrse la altura del rectangulo "));
+base=parseInt (prompt("ingrse la base del rectangulo"));
+perimetro= altura + base + altura + base;
+console.log("convertido" + perimetro);
+ 
+
+
 
 
 
