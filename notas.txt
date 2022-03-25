@@ -1,3 +1,5 @@
+laura tascon y maria alejandra
+
 Taller 1: Nota 3.2
     * Los comentarios al inicio, no tienen escrito lo que se pide en el Taller
     * La linea 20 debió ir en la línea 10
@@ -17,3 +19,8 @@ Taller 2: Nota 3
     * linea 43, mensaje poco claro
     * linea 49, el 22.000 es decimal debido al punto(.), debío ser 22000. Mensaje poco claro
     * lineas 60, 63, 66 operaciones incorrectas
+
+Taller 3 (recuperación): Nota 3.5 Recupera ambos talleres.
+    * Mensaje linea 5 incompleto, debe ser más específico
+    * Linea 10, operacion mala, debió ser metros
+    * linea 11, no es mililitros
