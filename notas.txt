@@ -24,3 +24,16 @@ Taller 3 (recuperación): Nota 3.5 Recupera ambos talleres.
     * Mensaje linea 5 incompleto, debe ser más específico
     * Linea 10, operacion mala, debió ser metros
     * linea 11, no es mililitros
+
+
+************************************************* segundo periodo
+
+taller 1: Nota 3.5
+    * Linea 38, debía ser ! en vez de 1 (La linea indica error)
+    * linea 51, el 50 y el 80 se toman, debe ser igual tambien
+    * Linea 71, no es mayor que 100
+    * Punto 9, no funciona
+    * Punto 10, tiene error. No funciona correctamente
+    * Punto 12 no está resuelto
+
+enlace al examen: https://acortar.link/a0gxi0
