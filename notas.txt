@@ -37,3 +37,11 @@ taller 1: Nota 3.5
     * Punto 12 no está resuelto
 
 enlace al examen: https://acortar.link/a0gxi0
+
+Examen: Nota
+    * punto 1, comparación incorrecta
+    * linea 26, incorrecta. era "5"
+    * linea 28, incorrecta, debe tener ==
+    * linea 30, incorrecta, debe usar && y escribir nuevamente la variable para compararla
+    * linea 37, incorrecta
+    * No hay más puntos resueltos
