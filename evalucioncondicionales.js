@@ -5,13 +5,13 @@
 
 var variable = "Mostrar";
  
-if (variable > "mostrar"){
+if (variable == "mostrar"){
    console.log("La condición es verdadera")
 }
 
 //segundo punto//
 
-var valor=10;
+var valor=12;
  
 if (valor >= 10 && valor <= 15){
    console.log("El valor es correcto")
@@ -27,7 +27,7 @@ if (numero!=7){
     console.log('El número es igual a "5" en valor y tipo');
 }else if(numero=5){
     console.log("El número es igual a 5 en valor");
-}else if(numero>12y<15){
+}else if(numero>12&&<15){
     console.log("El número es mayor que 12 y menor a 15");
 }
 
@@ -39,3 +39,23 @@ numero=5;
 numero=5;
 //Respuesta 3.D
 numero=13;
+
+//cuarto punto//
+
+var numero1=2
+var numero2=3
+
+//punto cinco//
+var idioma;
+if(idioma=="español"){
+    console.log("hola,¿como estas?");
+}else if (idioma== "ingles"){
+  console.log("Hello, how are you?");
+}else if (idioma== "frances"){
+console.log("Bonjour, comment allez-vous ?");
+}else if  (idioma== "italiano"){
+console.log ("Ciao, come stai?");
+}
+
+
+
