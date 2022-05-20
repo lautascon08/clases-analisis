@@ -40,7 +40,7 @@ var ciclo=prompt("ingrese un par para detenerse")
 
 while(ciclo%2==0){
     ciclo=prompt("ingrse un par para detenerse")
-
+}
 //lea en la guia sobre acumuladores en ciclos.cree un ciclo cuyo limite sea la cantidad de estudiantes de su salon y recorre la suma (acumulado) de todas las edades de los estudiantes.
 
 var acumulador= 0;
@@ -52,4 +52,4 @@ while(ciclo6<=cantP){
     valorAsumar=parseInt(prompt("ingrese la edad del estudiante"))
 
     acumulador=valorAsumar + acumulador
-    ciclo6
+    ciclo6+=1;
