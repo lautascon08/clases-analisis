@@ -38,7 +38,7 @@ taller 1: Nota 3.5
 
 enlace al examen: https://acortar.link/a0gxi0
 
-Examen condicional: Nota
+Examen condicional: Nota 3
     * punto 1, comparación incorrecta
     * linea 26, incorrecta. era "5"
     * linea 28, incorrecta, debe tener ==
