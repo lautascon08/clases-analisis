@@ -64,4 +64,6 @@ examen while: Nota 1
     * linea 49, ¿qué hace?
     * linea 52, debía ser && no ||. 57 también. La variable cajero no existe, su valor es indefinido y por tanto nunca va a aplicar descuento
     * linea 75, la variable ciclo no existe ni cantidadN, el ciclo no funciona
-    * 
+
+
+ciclo for: nota ***no se subió el taller***
