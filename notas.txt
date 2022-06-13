@@ -38,10 +38,32 @@ taller 1: Nota 3.5
 
 enlace al examen: https://acortar.link/a0gxi0
 
-Examen: Nota
+Examen condicional: Nota 3
     * punto 1, comparación incorrecta
     * linea 26, incorrecta. era "5"
     * linea 28, incorrecta, debe tener ==
     * linea 30, incorrecta, debe usar && y escribir nuevamente la variable para compararla
     * linea 37, incorrecta
     * No hay más puntos resueltos
+
+taller while: Nota 1
+    * El código en el navegador no funciona
+    * punto 2 no muestra lo que se pide
+    * punto 3 no va hasta el 50 y no imprime los pares tampoco
+    * punto 4, no tiene sentido la solución
+    * punto 5, no es un par para detenerse, es un impar 
+    * punto 6, no está completo
+    * demás puntos no están resueltos
+
+examen while: Nota 1
+    * punto 1, no está comentado
+    * linea 23, no es multiplicación es suma, y no es con cajero es con acumulador y precio
+    * linea 31, ¿qué hace?
+    * linea 33, la variable respuesta no existe
+    * el ciclo no realiza ninguna acción coherente
+    * linea 49, ¿qué hace?
+    * linea 52, debía ser && no ||. 57 también. La variable cajero no existe, su valor es indefinido y por tanto nunca va a aplicar descuento
+    * linea 75, la variable ciclo no existe ni cantidadN, el ciclo no funciona
+
+
+ciclo for: nota ***no se subió el taller***
