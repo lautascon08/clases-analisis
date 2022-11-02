@@ -67,3 +67,7 @@ examen while: Nota 1
 
 
 ciclo for: nota ***no se subió el taller***
+
+
+Geometría:
+    Nota: No recibido
